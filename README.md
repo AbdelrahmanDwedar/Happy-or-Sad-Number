@@ -16,6 +16,12 @@ It is a number that if you added their squared digits to each other and repeat t
 > 100 -> 1<sup>2</sup> + ~~0<sup>2</sup>~~ + ~~0<sup>2</sup>~~ = 1  
 
 
-### Explanation ℹ️
+#### Yotube videos:-
 
-https://youtube.ckom/shorts/5FC__K2dRoQ?feature=share
+- https://youtu.be/Te1GoYWKmz8
+
+- inspired by: https://youtube.ckom/shorts/5FC__K2dRoQ?feature=share 
+
+---
+
+<h2 align="center">Upcoming more ways**...**</h2>
